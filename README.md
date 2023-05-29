@@ -53,4 +53,3 @@ npx cypress open
 3. In the Cypress Test Runner, click on the `currencyConvert.cy.js` test file to run it.
 4. Cypress will automatically open a browser and execute the test steps.
 5. Once the test is complete, Cypress will display the test results in the Test Runner.
-
